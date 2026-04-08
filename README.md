@@ -6,4 +6,4 @@ I want to become an Expert or specialist in High-level,Mid-level,Low-level Langu
 ### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<img src="https://cdn.mos.cms.futurecdn.net/cpp3b2fv9VHK4oTMcfze9L-1200-80.png" width="450px" align="right" alt="" srcset="">
+<img src="https://cdn.mos.cms.futurecdn.net/cpp3b2fv9VHK4oTMcfze9L-1200-80.png" width="300px" align="right" alt="" srcset="">
