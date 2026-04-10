@@ -30,7 +30,7 @@ B.Sc.(CSE) Student |  Web Developer | Programmer | Problem Solver | Enthusiasm I
 - 🤔 I’m looking for help with  
 - 💬 Ask me about  
 - 📫 How to reach me:  
-- 😄 Pronouns: 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 
   
